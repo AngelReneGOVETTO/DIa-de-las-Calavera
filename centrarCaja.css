@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+/*.cajas-gris{
+    display: flex;
+    background-color: gray;
+    width: 1325px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+.cajas-gris img{
+    width: 1200px;
+    height: 400px;
+    text-align: center;
+}*/
+body{
+    background-image: url(./imagenes/dia\ de\ muertos.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.txt{
+    color: chartreuse;
+    font-family: 'Lobster', sans-serif;
+    text-align: center;
+    font-size: 100px;
+}

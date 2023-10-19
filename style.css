@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&display=swap');
+body{
+    background-image: url(./imagenes/dono3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+img[src]#iid{
+    width: 500px;
+    height: 260px;
+}
+
+table{
+    margin: auto;
+}
+table,tr,th{
+    border: 2px solid yellowgreen;
+}
+s:hover{
+    background-color: red;
+}
+.acl{
+    text-align: center;
+}
+.txt{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 100px;
+    /*font-family: 'Lobster', sans-serif;*/
+}
+/*.cajas-gris{
+    display: flex;
+    background-color: purple;
+    width: 1100px;
+    height: 1250px;
+    justify-content: center;
+    align-items: center;
+}
+.cajas-gri{
+    display: flex;
+    background-color: purple;
+    width: 1100px;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+}
+*/
